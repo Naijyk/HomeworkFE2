@@ -1,0 +1,16 @@
+.header{
+    font-weight: 500;
+}
+
+.table1, td, th, tr{
+    border: 1px solid black;
+}
+
+img{
+    width: 22px;
+    height: 17px;
+}
+
+p{
+    margin: 2px;
+}
